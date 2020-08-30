@@ -1,0 +1,2 @@
+E:\vs_projects\2048_rogepi\x64\Debug\2048_rogepi.exe
+E:\vs_projects\2048_rogepi\x64\Debug\2048_rogepi.pdb
